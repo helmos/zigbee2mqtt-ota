@@ -5,11 +5,6 @@
         "manufacturerCode": 4417,
         "imageType": 522,
         "sha512": "b82a69672e8233af048267fdf29aad1b3266c5b38febf6a3920a18c98d0de2303f814fef18e8d46c123aa05587700a6013055f5009714e6e2ea15841e0abb758",
-        "otaHeaderString": "Xiaomi:LYWSD03MMC-z",
-        "modelId": "LYWSD03MMC-z",
-        "manufacturerName": [
-            "Xiaomi"
-        ],
         "url": "https://github.com/pvvx/ZigbeeTLc/raw/refs/heads/master/bin/1141-020a-01333001-Z03MMC.zigbee"
     }
 ]
