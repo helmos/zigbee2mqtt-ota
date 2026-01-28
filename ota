@@ -1,0 +1,15 @@
+[
+    {
+        "fileVersion": 1191937,
+        "fileSize": 166242,
+        "manufacturerCode": 4417,
+        "imageType": 522,
+        "sha512": "39bdeb9a70a0ae1a6ad7179201c7f53a3469f64af0986b2f31be99362636d366601a1fec64508ec722e5495f80ea46caf9eba5584f135ac3343fd750120c5e6c",
+        "otaHeaderString": "Xiaomi:LYWSD03MMC",
+        "modelId": "LYWSD03MMC",
+        "manufacturerName": [
+            "Xiaomi"
+        ],
+        "url": "https://github.com/pvvx/ZigbeeTLc/raw/refs/heads/master/bin_zb/1141-020a-00123001-Z03MMC.zigbee"
+    }
+]
